@@ -1,0 +1,22 @@
+.button {
+    font-size: 25px;
+    margin: 40px 0px 10px 50px;
+    text-align: center;
+}
+
+.button-1,
+.button-2,
+.button-3,
+.button-4 {
+    background-color: rgba(147, 147, 228, 0.5);
+    border-color: rgba(147, 147, 228);
+    border-radius: 5px;
+    align-content: center;
+    width: 180px;
+    display: flex;
+    margin: 30px 0px 10px 500px;
+}
+
+.button a:link {
+    text-decoration: none;
+}

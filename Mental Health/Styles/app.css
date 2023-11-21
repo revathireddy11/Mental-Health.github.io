@@ -1,0 +1,36 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-bar {
+    background-color: rgb(164, 164, 224, 0.7);
+    font-size: 25px;
+    color: black;
+}
+
+.nav-link:hover {
+    background-color: rgb(164, 164, 224, 0.7);
+    transform: scale(1.1);
+}
+
+.para {
+    font-size: 24px;
+    display: grid;
+    padding: 0rem;
+    grid-template-columns: 700px 0.5fr;
+    gap: 0.5rem;
+    max-width: 8px;
+    margin: -180px 450px;
+}
+
+.submit {
+    margin: 250px 0px 0px 500px;
+    background-color: rgb(164, 164, 224, 0.7);
+    border-color: rgb(94, 94, 229);
+    font-size: 25px;
+}
+
+.submit:hover {
+    transform: scale(1.2);
+    background-color: rgba(147, 147, 228, 0.5);
+}

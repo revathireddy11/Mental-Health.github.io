@@ -1,0 +1,35 @@
+.button {
+    font-size: 25px;
+    margin: 40px 0px 10px 50px;
+    text-align: center;
+    background-color: rgba(147, 147, 228, 0.5);
+    border-color: rgba(147, 147, 228);
+    border-radius: 5px;
+}
+
+.button1 {
+    font-size: 25px;
+    margin: 40px 0px 10px 50px;
+    text-align: center;
+    background-color: rgba(147, 147, 228, 0.5);
+    border-color: rgba(147, 147, 228);
+    border-radius: 5px;
+    margin: 20px 0px 20px 40px;
+}
+
+.para1 {
+    font-size: 25px; 
+    justify-content: center; 
+    font-family: 'Times New Roman', Times, serif; 
+    margin: 30px 30px 10px 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    border-color: rgb(147, 147, 228);
+    background-color: rgb(147, 147, 228, 0.2);
+}
+
+.questions {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px 20px 5px 50px;
+}
